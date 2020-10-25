@@ -1,0 +1,28 @@
+body {
+  font-size: 16px;
+  
+ font-family: "Comic Sans MS",cursive,sans-serif;
+}
+li{
+	text-align: left;
+}
+.rimage{
+	float: right;
+}
+.remhover:link {text-decoration: none;}
+.remhover:hover{text-decoration: none;}
+
+a{
+	color:#05386b;
+    font-size: 1.5em;
+    text-align: center;
+
+}
+h1{ 
+	color: #6f2232;
+	font-family: "Times New Roman",sans-serif;
+}
+h2{ 
+	color: #6f2232;
+	font-family: "Times New Roman",sans-serif;
+}
